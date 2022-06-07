@@ -1,0 +1,57 @@
+.pop-up-modal-main{
+    display: flex;
+flex-direction:column;
+justify-content: space-around;
+
+align-items: center;
+padding: 32px;
+    width: 400px;
+height: auto;
+left: 111px;
+top: 82px;
+background: #FFFFFF;
+align-items: center;
+}
+
+.success-head{
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 20px;
+/* identical to box height, or 62% */
+
+
+/* Gray/700 */
+
+color: #344054;
+
+
+/* Inside auto layout */
+
+
+margin: 24px 0px;
+}
+.success-paragraph{
+   
+   text-align: center;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    
+    
+    /* Gray/700 */
+    
+    color: #344054;
+    
+
+    margin: 5px 0px;
+
+}
